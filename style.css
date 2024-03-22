@@ -163,7 +163,7 @@ margin-top: 15px;
 
 #whttwo{
     background-color: white;
-    height: 1200px;
+    height: 600px;
     margin-left: 150px;
     margin-right: 165px;
 
@@ -220,18 +220,33 @@ margin-top: 15px;
 
 #finish{
     display: flex;
-    margin-left: 300px;
+    margin-left: 150px;
+    margin-right: 163px;
     gap: 300px;
+    background-color: #2A8A9E;
 
 }
+
+#up{
+    margin-bottom: 100px;
+}
+
 
 #Ddone{
     background-color: #003E46;
     border: 50px;
     display: flex;
     gap: 200px;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 150px;
+    margin-right: 165px;
+}
+
+#part{
+    font-size: 10px;
+}
+
+#Want{
+    font-size: 30px;
 }
 
 
