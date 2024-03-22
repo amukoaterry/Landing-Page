@@ -1,0 +1,238 @@
+body{
+    background-color: #8DD2CF;
+    color: white;
+
+}
+
+#midnav{
+display: flex;
+gap: 30px;
+font-size: 20px;
+margin-top: 15px;
+
+
+}
+
+#scree{
+    margin-right: 100px;
+    margin-top: 16px;
+}
+
+#cyb{
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+#nav{
+    background-color: #014852;
+    width: 1500px;
+    height: 90px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-top: 100px;
+    
+}
+
+#blue{
+    background-color: #003e47;
+    height: 800px;
+    margin-left: 150px;
+    margin-right: 165px;
+
+
+}
+
+#disc{
+    display: flex;
+    gap: 15px;
+    margin-left: 100px;
+}
+
+#stealth{
+    font-size: 30px;
+}
+
+#white{
+   margin-top: 25px; 
+   
+}
+
+#yellow{
+    color: #FEC962;
+    font-size: 70px;
+}
+
+#get{
+    font-size: 25px;
+}
+
+#move{
+    margin-right: 180px;
+}
+
+#private{
+    font-size: 80px;
+
+}
+
+#sign{
+    color: white;
+    background-color: #8DD2CF;
+    font-size: 15px;
+    height: 50px;
+    border-radius: 10px;
+    width: 100px;
+}
+
+#second{
+    display: flex;
+}
+
+#login{
+    background-color: #003e47;
+    color: #8DD2CF;
+    border: solid #8DD2CF;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#adv{
+
+    background-color: white;
+    height: 400px;
+    margin-left: 150px;
+    margin-right: 165px;
+
+}
+
+#thrive{
+    font-size: 40px;
+    color: #003e47;
+}
+
+#thy{
+    color: #D19257;
+    font-size: 40px;
+}
+
+#seperate{
+    display: flex;
+    margin-left: 550px;
+
+}
+
+#feedback{
+    display: flex;
+    gap: 100px;
+    margin-left: 170px;
+}
+
+#color{
+    color: black;
+    font-size: 17px;
+}
+
+#icons{
+    margin-left: 100px;
+}
+
+#ree{
+    margin-bottom: 500px;
+}
+
+#pg{
+
+    margin-bottom: 90px;
+}
+
+#sent{
+    margin-top: 50px;
+}
+
+
+#latest{
+    margin-left: 150px;
+}
+
+#properties{
+    margin-left: 150px;
+}
+
+#whttwo{
+    background-color: white;
+    height: 1200px;
+    margin-left: 150px;
+    margin-right: 165px;
+
+}
+
+#high{
+    display: flex;
+    margin-left: 200px;
+}
+
+#blog{
+    display: flex;
+    gap: 700px;
+}
+
+#view{
+    background-color: #4650AB;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+}
+
+#lapi{
+    display: flex;
+    gap: 70px;
+    margin-left: 300px;
+}
+
+#gene{
+    font-size: 20px;
+    color: black;
+}
+
+#header{
+    color: black;
+}
+
+#log{
+    margin-left: 200px;
+}
+
+#search{
+    color: black;
+
+}
+
+#secure{
+    font-size: 20px;
+
+    color: black
+    
+    
+}
+
+#finish{
+    display: flex;
+    margin-left: 300px;
+    gap: 300px;
+
+}
+
+#Ddone{
+    background-color: #003E46;
+    border: 50px;
+    display: flex;
+    gap: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
+
